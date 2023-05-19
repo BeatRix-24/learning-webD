@@ -1,0 +1,31 @@
+body{
+    background-color: #F1F6F9;
+}
+.title{
+    background-color: #394867;
+    border-radius: 20px;
+    
+}
+img{
+    border-radius: 10px;
+}
+#text{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    font-size: 2pc;
+    font-weight: 600;
+}
+.bgnd{
+    background-color: #9BA4B5;
+    color: whitesmoke;
+    font-size: 1.2rem;
+}
+#contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
